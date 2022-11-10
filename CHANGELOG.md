@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - tests for all resources are coming
 
+## [0.1.2] - 2022-11-10
+### Added
+- Makefile
+### Fixed
+- small fixes with examples and readme
 ## [0.1.1] - 2022-11-10
 ### Added
 - Added terraform provider for etcd k/v storage
