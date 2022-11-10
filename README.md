@@ -6,7 +6,7 @@ Its allow you to manage some etcd elements via terraform.
 
 ## How to use it?
 
-Please check [/docs](https://github.com/qurname2/terraform-etcd-provider/tree/main/docs) directory.
+Please check [/docs](https://github.com/qurname2/terraform-provider-etcd/tree/main/docs) directory.
 
 ## Requirements
 * [Terraform](https://developer.hashicorp.com/terraform/downloads) >= 1.3.x
