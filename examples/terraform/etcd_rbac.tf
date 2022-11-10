@@ -1,4 +1,4 @@
-module "etcd_rbac_qa" {
+module "etcd_rbac" {
   source = "../_modules/etcd-rbac"
 
   rbac_rules  = {
@@ -26,5 +26,5 @@ module "etcd_rbac_qa" {
 }
 
 output "rbac_helper" {
-  value = module.etcd_app_dr_qa.rbac_helper
+  value = module.etcd_rbac.rbac_helper
 }
