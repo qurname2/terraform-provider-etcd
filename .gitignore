@@ -1,0 +1,8 @@
+**/Makefile
+**/vendor/*
+**/examples/.terraform*
+**/examples/terraform.tfstate*
+**/examples/*log
+**/examples/main.tf
+**/test/*
+terraform-provider-etcd
